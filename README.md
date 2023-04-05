@@ -4,6 +4,11 @@ This is a repository for PHASE,  a set of annotations to study demographic bias 
 
 PHASE is described in the paper "Uncurated Image-Text Datasets: Shedding Light on Demographic Bias" by *Noa Garcia, Yusuke Hirota, Yankun Wu,* and *Yuta Nakashima*. To appear soon.
 
+<p align="center">
+  <img src="https://github.com/noagarcia/phase/blob/master/images/examples.png">
+</p>
+
+
 ### News
 
 - **Mar. 2023**: PHASE has been selected as a highlight paper at CVPR 2023.
@@ -23,6 +28,7 @@ For a subset of the GCC images:
 
 ## Download
 Download images from [here](https://drive.google.com/file/d/1-GGvJjkIrDjQlSnoPmOKY3KqCeeGyDGT/view?usp=share_link).
+
 Download annotations from [here](https://drive.google.com/file/d/1COJCqMj4Jdj7Vu_87uJ4tKaQZyGISMTm/view?usp=share_link). The zip file contains the following files:
 
 - All the annotations (3 annotations per region-attribute):
@@ -35,6 +41,13 @@ Download annotations from [here](https://drive.google.com/file/d/1COJCqMj4Jdj7Vu
 
 - Annotators information:
   - `annotators.csv`
+
+Annotators statistics:
+
+<p align="center">
+  <img src="https://github.com/noagarcia/phase/blob/master/images/annotators.png">
+</p>
+
 
 ## Important information
 
