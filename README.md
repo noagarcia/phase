@@ -18,7 +18,7 @@ For a subset of the GCC images:
 4. Each attribute is annotated by 3 different annotators.
 
 <p align="center">
-  <img width="460" src="https://github.com/noagarcia/phase/blob/master/images/annotation_process.png">
+  <img src="https://github.com/noagarcia/phase/blob/master/images/annotation_process.png">
 </p>
 
 ## Download
